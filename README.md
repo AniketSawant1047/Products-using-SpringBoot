@@ -1,6 +1,6 @@
 # Products-using-SpringBoot
                 This is a project of Products pricing system in which you can add product, remove product, update that product as same as we can do with Product Details in which we can categories products. and main thing is that we can get the  product with its all prices and GST, discount, delivery charge deduced and final price will be displayed with all details of the products...
-#we can do :
+***we can do :***
 1.Add product
 2.remove product
 3.update product
